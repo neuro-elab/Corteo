@@ -1,5 +1,4 @@
-# Corteo
-Novel Software for Integrated Multimodal Brain Network Analysis
+# Corteo: a Novel Software for Integrated Multimodal Brain Network Analysis
 
 
 https://github.com/user-attachments/assets/8438037c-36fe-4c93-ad68-fa7c41b6f793
